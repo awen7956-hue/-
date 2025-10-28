@@ -1,0 +1,5 @@
+# Ignore original batch folders (we'll only upload ZIP files)
+Batch_*/
+
+# Ignore the original uncompressed zip
+Photos-1-001.zip
